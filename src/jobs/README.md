@@ -1,6 +1,6 @@
 # Custom scheduled jobs
 
-You may define custom scheduled jobs (cron jobs) by creating files in the `/jobs` directory.
+You may define custom scheduled jobs (cron jobs) by creating files in the `/jobs` directory. 
 
 ```ts
 import {
